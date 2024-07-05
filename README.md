@@ -4,7 +4,7 @@
 
 - I'm studiying in france at **Eseo**
 
-- I’m currently learning **Programming on multiple language and electronic engineering**
+- I’m currently learning **Computer Science and electronic Engineering**
 
 - ⚡ Fun fact **I like docker**
 
