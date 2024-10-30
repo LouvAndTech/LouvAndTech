@@ -10,7 +10,7 @@
   - I like docker <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a> and Golang <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/></a>.
   - I also know how to use ADS <a href="https://www.keysight.com" target="_blank" rel="noreferrer"><img src="https://www.mutaz.pro/img/win/39448Advanced-Design-System-ADS.png" alt="ADS" width="20" height="20"/></a> for signal integrity simulation.
   - And I enjoy writing <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> on optimized embedded projetcts
-  - Above all I enjoy a new challenge 
+  - **Above all** I enjoy a new challenge...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
