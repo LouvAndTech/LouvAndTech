@@ -2,7 +2,7 @@
 <h3 align="center">I'm a master student in electronic engineering and computing sciences</h3>
 <h5 align="center">https://elouan-lerissel.fr</h5>
 
-- I'm studiying in France at [**ESEO**](http://www.eseo.fr) École supérieure d'électronique de l'Ouest *(Western Graduate School of Electronics)*
+- I'm studiying in France 🇫🇷 at [**ESEO**](http://www.eseo.fr) École supérieure d'électronique de l'Ouest *(Western Graduate School of Electronics)*
 
 - I’m currently learning **Computer Science and Electronic Engineering**
 
