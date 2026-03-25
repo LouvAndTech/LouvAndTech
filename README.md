@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! My name is Elouan Lérissel</h1>
 <h3 align="center">I'm a master student in electronic engineering and computing sciences</h3>
-<!--h5 align="center">https://elouan-lerissel.fr</h5-->
+<!--h5 align="center">https://fr.linkedin.com/in/elouan-lerissel/en</h5-->
 
 - I'm studiying in France 🇫🇷 at [**ESEO**](http://www.eseo.fr) École supérieure d'électronique de l'Ouest *(Western Graduate School of Electronics)*
 
