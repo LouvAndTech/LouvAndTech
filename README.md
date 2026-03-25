@@ -4,9 +4,9 @@
 
 - I'm studiying in France 🇫🇷 at [**ESEO**](http://www.eseo.fr) École supérieure d'électronique de l'Ouest *(Western Graduate School of Electronics)*
 
-- I’m currently learning **Computer Science and Electronic Engineering**
+- Currently working at [**Technolution**](https://www.technolution.com/) in the Netherlands 🇳🇱 on energy monitoring solutions.
 
-- I enjoy being versatile: 
+- Specialized in embedded systems, I still enjoy being versatile:
   - I like docker <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a> and Golang <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/></a>.
   - I also know how to use ADS <a href="https://www.keysight.com" target="_blank" rel="noreferrer"><img src="https://www.mutaz.pro/img/win/39448Advanced-Design-System-ADS.png" alt="ADS" width="20" height="20"/></a> for signal integrity simulation.
   - And I enjoy writing <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> on optimized embedded projetcts
